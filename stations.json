@@ -1,0 +1,97 @@
+[
+  {
+    "heading": "Along L Train Route"
+  },
+  {
+    "heading": "Junius 3",
+    "in": [
+      {
+        "name": "LIVONIA AV",
+        "route": "L"
+      },
+      {
+        "name": "SUTTER AV",
+        "route": "L"
+      },
+      {
+        "name": "JUNIUS ST",
+        "route": "3"
+      }
+    ]
+  },
+  {
+    "heading": "Myrtle-Wyckoff LM",
+    "in": [
+      {
+        "name": "MYRTLE-WYCKOFF",
+        "route": "LM"
+      }
+    ]
+  },
+  {
+    "heading": "Lorimer/Hewes JMZ",
+    "in": [
+      {
+        "name": "HEWES ST",
+        "route": "JM"
+      },
+      {
+        "name": "LORIMER ST",
+        "route": "JM"
+      }
+    ]
+  },
+  {
+    "heading": "Lorimer GL",
+    "in": [
+      {
+        "name": "LORIMER ST",
+        "route": "LG"
+      },
+      {
+        "name": "METROPOLITAN AV",
+        "route": "GL"
+      }
+    ]
+  },
+  {
+    "heading": "Grand St Bus",
+    "in": [
+      {
+        "name": "GRAND ST",
+        "route": "L"
+      },
+      {
+        "name": "MONTROSE AV",
+        "route": "L"
+      }
+    ]
+  },
+  {
+    "heading": "Bedford Av Bus",
+    "in": [
+      {
+        "name": "BEDFORD AV",
+        "route": "L"
+      }
+    ]
+  },
+  {
+    "heading": "Outflow Riders"
+  },
+  {
+    "heading": "21 St/Hunters Pt G7",
+    "out": [
+      {
+        "name": "21 ST",
+        "route": "G"
+      }
+    ],
+    "in": [
+      {
+        "name": "HUNTERS PT AV",
+        "route": "7"
+      }
+    ]
+  }
+]
