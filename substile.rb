@@ -1,4 +1,3 @@
-# with data from http://web.mta.info/developers/turnstile.html
 require 'json'
 require 'csv'
 require 'terminal-table'
